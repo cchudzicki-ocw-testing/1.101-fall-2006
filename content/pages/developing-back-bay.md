@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains information about the third and final project assignment.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Developing Back Bay

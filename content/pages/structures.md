@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The Structures module is comprised of laboratory exercises and a design
+  task.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Structures

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about the scope and objectives of the
+  Delta Game assignment.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Delta Game

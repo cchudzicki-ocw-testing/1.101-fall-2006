@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The Water Resources module includes laboratory experiments and a larger
+  design task.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Water Resources
